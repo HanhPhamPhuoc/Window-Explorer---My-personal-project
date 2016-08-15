@@ -1,0 +1,30 @@
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\bin\Debug\Window Explorer.exe.config
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\obj\Debug\Window Explorer.exe
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\obj\Debug\Window Explorer.pdb
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\obj\Debug\Window Explorer.csprojResolveAssemblyReference.cache
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Form1.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Properties.Resources.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\obj\Debug\Window Explorer.csproj.GenerateResource.Cache
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\bin\Debug\Window Explorer.exe
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\bin\Debug\Window Explorer.pdb
+G:\nam 2\hk4\LTTQ - C#\Do An\trash\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Form2.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\bin\Debug\Window Explorer.exe.config
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\bin\Debug\Window Explorer.exe
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\bin\Debug\Window Explorer.pdb
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\obj\Debug\Window Explorer.csprojResolveAssemblyReference.cache
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Form1.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Form2.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Properties.Resources.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\obj\Debug\Window Explorer.csproj.GenerateResource.Cache
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\obj\Debug\Window Explorer.exe
+G:\nam 2\hk4\LTTQ - C#\Do An\Window Explorer\Window Explorer\obj\Debug\Window Explorer.pdb
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\bin\Debug\Window Explorer.exe.config
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\bin\Debug\Window Explorer.exe
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\bin\Debug\Window Explorer.pdb
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\obj\Debug\Window Explorer.csprojResolveAssemblyReference.cache
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Form1.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Form2.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\obj\Debug\Window_Explorer.Properties.Resources.resources
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\obj\Debug\Window Explorer.csproj.GenerateResource.Cache
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\obj\Debug\Window Explorer.exe
+G:\nam 2\hk4\LTTQ - C#\Do An\14520255_WindowsExplorer\Window Explorer\Window Explorer\obj\Debug\Window Explorer.pdb
